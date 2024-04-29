@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="307969c2c3fd42103e9cb0cc05013185" label="Products" max_length="40" name="x_1296543_exercise_products" type="collection">
+        <element label="Name" max_length="255" name="name" type="string"/>
+        <element default="0" label="Price" max_length="40" name="price" type="integer"/>
+        <element default="0" label="Quantity" max_length="40" name="quantity" type="integer"/>
+    </element>
+</database>
